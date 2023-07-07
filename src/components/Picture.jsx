@@ -1,7 +1,7 @@
 import React from "react";
 
 const Picture = () => {
-  return <div>Picture</div>;
+  return <div>react</div>;
 };
 
 export default Picture;
